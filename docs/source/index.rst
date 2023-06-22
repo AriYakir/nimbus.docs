@@ -1,4 +1,4 @@
-Welcome to Nimbus documentation!
+Welcome to Nimbus documentation! 
 ===================================
 
 **Nimbus** is a platfrom for robot development.
